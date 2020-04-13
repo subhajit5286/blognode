@@ -15,5 +15,14 @@
     "nodemon": "^2.0.3",
     "startbootstrap-clean-blog": "^5.0.8",
     "touch": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhajit5286/blognode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subhajit5286/blognode/issues"
+  },
+  "homepage": "https://github.com/subhajit5286/blognode#readme"
 }
